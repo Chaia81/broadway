@@ -11,6 +11,7 @@ h1 {
 
 .navigation {
   background-image: url("./images/the_flatiron_building.jpg");
+  background-repeat: no-repeat;
 }
 
 .link {
@@ -30,4 +31,10 @@ h2{
 
 .small {
   font-size: 14px;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
 }
